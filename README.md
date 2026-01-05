@@ -1,47 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=160&section=header&text=MRobi27&fontSize=42&fontColor=00ff99&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=150&section=header&text=MRobi27&fontSize=40&fontColor=00ff99"/>
 </p>
 
-<h2 align="center">🐍 Hi, I'm Robi</h2>
+<h2 align="center">🐍 Robi</h2>
 
 <p align="center">
-  <b>Python Developer | Cyber Security Enthusiast | CTF Learner</b>
+  <b>Python Developer · Cyber Security Learner · CTF</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF99&center=true&vCenter=true&width=700&lines=print(%22Hello+World%22);Python+%7C+Cyber+Security+%7C+CTF;Automate+%7C+Analyze+%7C+Exploit;Code+with+Purpose" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World%22);Python+Automation;Security+Scripting;Learning+by+Doing" />
 </p>
 
-<hr>
+---
 
-<h3>🧠 About Me (Terminal)</h3>
+## 🧠 About Me
 
 ```bash
-┌──(root㉿mrobi27)-[/home/robi]
-└─$ whoami
-Python Developer | Cyber Security Learner
+$ whoami
+Python Developer & Cyber Security Learner
 
-┌──(root㉿mrobi27)-[/home/robi]
-└─$ focus
+$ focus
 Automation, Security Tools, CTF, Scripting
 
-┌──(root㉿mrobi27)-[/home/robi]
-└─$ mindset
-Think → Code → Test → Hack → Improve
-<hr> <h3>🛠 Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark" /> </p> <hr> <h3>🔐 Cyber & Python Focus</h3>
-🐍 Python Automation & Scripting
+$ mindset
+Think → Code → Test → Improve
+````
 
-🔍 Cyber Security Fundamentals
+---
 
-🧪 CTF (Web, Forensic, OSINT)
+## 🛠 Tech Stack
 
-🐧 Linux & Bash
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark" />
+</p>
 
-🌐 Networking Basics
+---
 
-<hr> <h3>📊 GitHub Activity</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrobi27&theme=tokyonight&hide_border=true" /> </p> <hr> <h3>🌐 Contact</h3>
-📧 Email: robyardita5@gmail.com
+## 🔐 What I Do
 
-🐙 GitHub: https://github.com/mrobi27
+* 🐍 Python Automation & Scripting
+* 🧪 CTF (Web · Forensic · OSINT)
+* 🐧 Linux & Bash
+* 🌐 Networking Basics
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer" /> </p> ```
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+* 📧 **[robyardita5@gmail.com](mailto:robyardita5@gmail.com)**
+* 🐙 [https://github.com/mrobi27](https://github.com/mrobi27)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=100&section=footer"/>
+</p>
+```
+
+---
+
+## 🔥 KENAPA YANG INI BAGUS?
+
+✔ Struktur **jelas**
+✔ Terminal **cuma di satu tempat**
+✔ Python = **inti utama**
+✔ Cyber = **pendukung**
+✔ Clean, readable, profesional
+
+Ini tipe README yang:
+
+* recruiter suka
+* mentor cyber suka
+* **kamu nggak malu buka profil sendiri**
+
