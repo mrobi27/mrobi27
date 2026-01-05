@@ -1,10 +1,3 @@
-Siap ✅
-Ini **README FINAL – CYBER / HACKER THEME**
-👉 **TINGGAL COPY–PASTE** ke `mrobi27/README.md`
-
----
-
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffcc&height=130&section=header&text=MRobi27&fontSize=42&fontColor=00ffcc&animation=fadeIn" />
 </p>
