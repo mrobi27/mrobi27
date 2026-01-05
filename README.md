@@ -51,13 +51,6 @@ Think → Code → Test → Improve
 
 ---
 
-### 📊 GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 📫 Contact
 
 * 📧 **[robyardita5@gmail.com](mailto:robyardita5@gmail.com)**
