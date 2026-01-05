@@ -62,21 +62,3 @@ Think → Code → Test → Improve
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=100&section=footer"/>
 </p>
-```
-
----
-
-## 🔥 KENAPA YANG INI BAGUS?
-
-✔ Struktur **jelas**
-✔ Terminal **cuma di satu tempat**
-✔ Python = **inti utama**
-✔ Cyber = **pendukung**
-✔ Clean, readable, profesional
-
-Ini tipe README yang:
-
-* recruiter suka
-* mentor cyber suka
-* **kamu nggak malu buka profil sendiri**
-
