@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 ```bash
 $ whoami
 Python Developer & Java Programmer
@@ -29,7 +29,7 @@ Think → Code → Test → Improve
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode&theme=dark" />
@@ -41,7 +41,7 @@ Think → Code → Test → Improve
 
 ---
 
-## 🔐 What I Do
+## What I Do
 
 * 🐍 **Python Automation & Scripting**
 * ☕ **Java Programming (OOP & Logic)**
