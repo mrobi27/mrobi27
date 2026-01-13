@@ -71,11 +71,12 @@ Think → Code → Test → Improve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrobi27&layout=compact&theme=tokyonight&cache_seconds=86400)
+- 💻 Actively building projects with **Python**, **Java**, and **React**
+- 🧪 Practicing **CTF** challenges (Web · Forensic · OSINT)
+- 🐧 Daily use of **Linux & Bash**
+- 🌐 Learning **Networking & Security Fundamentals**
 
 ---
 
