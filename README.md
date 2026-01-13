@@ -74,15 +74,17 @@ Think → Code → Test → Improve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrobi27&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrobi27&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrobi27&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrobi27&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -96,5 +98,3 @@ Think → Code → Test → Improve
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1a0033&height=100&section=footer"/>
 </p>
 ```
-
----
