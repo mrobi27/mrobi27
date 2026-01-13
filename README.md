@@ -88,4 +88,3 @@ Think → Code → Test → Improve
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:1a0033&height=100&section=footer"/>
 </p>
-```
